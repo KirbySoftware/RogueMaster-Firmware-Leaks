@@ -5,7 +5,7 @@ Welcome to the RogueMaster Firmware Leaks repository! This is a somewhat up-to-d
 ## Download Links 📥
 
 - **SD Assets:** [Download Here](https://gofile.io/d/PH9vXq) 📂
-- **Firmware:** [Download Latest Version](https://anonshort.link/57f2a) 🔗
+- **Firmware:** [Download Latest Version](https://gofile.io/d/PH9vXq) 🔗
 
 ### Current Firmware Version: RM0529-1340 🆕
 
