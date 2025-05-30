@@ -1,6 +1,6 @@
 # RogueMaster Firmware Leaks 🚀
 
-Welcome to the RogueMaster Firmware Leaks repository! This is a somewhat up-to-date collection of RogueMaster's firmware, SD assets, and more. 
+Welcome to the RogueMaster Firmware Leaks repository! This is a somewhat up-to-date collection of RogueMaster's Flipper Zero firmware, SD assets, and more. 
 
 ## Download Links 📥
 
@@ -24,5 +24,3 @@ Welcome to the RogueMaster Firmware Leaks repository! This is a somewhat up-to-d
     - **New Commands for Marauder v1.6.0:** [Details Here](https://github.com/0xchocolate/flipperzero-wifi-marauder/pull/68) 📝
 
 ---
-
-Feel free to explore the links above for more information and updates! 🌟
